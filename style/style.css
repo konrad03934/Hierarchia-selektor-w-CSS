@@ -1,0 +1,14 @@
+* {
+	color: magenta;
+}
+
+a {
+	color: lime;
+}
+a#pierwszy-link {
+	color: cyan;
+}
+
+a.pierwszy-link {
+	color: orange;
+}
